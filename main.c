@@ -2,5 +2,5 @@
 #include<stdlib.h>
 
 int main(int argc, char *argv[]){
-	printf("AIIIIII");
+	printf("AIIIIII\n");
 }
